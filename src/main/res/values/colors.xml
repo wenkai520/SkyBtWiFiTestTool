@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="text_unfocus">#777777</color>
+    <color name="text_focus">#ffffff</color>
+    <color name="btn_bg_unfocus">#20FFFFFF</color>
+</resources>

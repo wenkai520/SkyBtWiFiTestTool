@@ -1,0 +1,9 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.NoTitleBar.Fullscreen">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">@drawable/ui_sdk_main_page_bg_theme_2</item>
+    </style>
+
+</resources>

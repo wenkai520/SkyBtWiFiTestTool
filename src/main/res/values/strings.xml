@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">WiFi蓝牙测试工具</string>
+    <string name="main_config_title">测试工具参数配置</string>
+    <string name="bt_config_title">蓝牙参数配置</string>
+    <string name="wifi_config_title">WiFi参数配置</string>
+    <string name="wifi_name_list">WiFi名称列表</string>
+    <string name="wifi_rssi_standard">信号强度标准值(dB)</string>
+    <string name="start_detect">开始检测</string>
+    <string name="mac_range">Mac范围: </string>
+    <string name="mac">Mac: </string>
+    <string name="empty"></string>
+    <string name="line">---</string>
+    <string name="save">保存</string>
+    <string name="save_success">保存成功</string>
+    <string name="ssid1">ssid1</string>
+    <string name="ssid2">ssid2</string>
+    <string name="ssid3">ssid3</string>
+    <string name="ssid4">ssid4</string>
+    <string name="percent_threshold">信号强度百分比阀值:(%)</string>
+    <string name="bt_name_list">蓝牙名称列表</string>
+    <string name="bt_rssi_standard"></string>
+    <string name="bluetooth1">bluetooth1</string>
+    <string name="bluetooth2">bluetooth2</string>
+
+    <string name="check_result">检测结果：</string>
+    <string name="pass">测试通过</string>
+    <string name="fail">Fail</string>
+    <string name="wifi_rssi_percent">信号强度百分比(dB)</string>
+    <string name="RESULT_PASS">测试通过</string>
+    <string name="RESULT_NOT_CONFIG">未配置测试参数</string>
+    <string name="RESULT_NOT_FIND">未搜索到部分Ap</string>
+    <string name="RESULT_NOT_FOUND">未搜索到部分蓝牙设备</string>
+    <string name="RESULT_RSSI_LEVEL_NG">信号强度不合格</string>
+    <string name="RESULT_NOT_FIND_RSSI_LEVEL_NG">部分ap未发现和信号强度不合格</string>
+    <string name="RESULT_MAC_ADDR_NG">Mac地址越界</string>
+    <string name="IDLE">未接入测试模块</string>
+
+    <string name="exit_again">再按一次退出程序。。。</string>
+    <string name="back_to_setting_view">再按一次返回到参数设置页面</string>
+</resources>
