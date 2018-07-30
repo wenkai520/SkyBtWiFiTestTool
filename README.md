@@ -40,4 +40,4 @@ WiFi界面设置：
 
 ![Alt text](https://github.com/wenkai520/SkyBtWiFiTestTool/blob/master/picture/btSetting.png)
 
-希望可以帮到有用的童鞋~love you~
+希望可以帮到有用的童鞋!
